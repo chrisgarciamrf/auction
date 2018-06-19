@@ -1,0 +1,11 @@
+.info {
+  float: right;
+  text-align: right;
+}
+
+.email, .linkedin, .github {
+  display: table;
+  margin: 0 auto;
+  width: 35px;
+  margin: 12px;
+}
